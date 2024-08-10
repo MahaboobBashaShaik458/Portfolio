@@ -119,7 +119,7 @@ header .nv ul li a:hover{
     background-color:yellowgreen;
 }
 
-.Professional Summary{
+.Professional_Summary{
     display: inline;
     color: #fff;
 }
@@ -230,32 +230,32 @@ table{
     padding: 0. 5rem;
 }
 
-.Training Experience{
+.Training_Experience{
     display: inline;
     color: #fff;
 }
 
-.Training Experience .Row{
+.Training_Experience .Row{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     padding: 3rem 0;
 }
-.Training Experience .Row .det{
+.Training_Experience .Row .det{
     flex: 1 1 48rem;
     padding: 2rem 1rem;
     padding-left: 8rem;
 }
 
-.Training Experience .Row .det h3{
+.Training_Experience .Row .det h3{
     font-size: 2rem;
     color: yellow;
     padding: 1rem 0;
     font-weight: normal;
 }
 
-.Training Experience .Row .det h3 span{
+.Training_Experience .Row .det h3 span{
     color: #eee;
     padding: 0. 5rem;
 }
@@ -320,32 +320,32 @@ table{
     padding: 0. 5rem;
 }
 
-.Inter Personal Skills{
+.Inter_Personal_Skills{
     display: inline;
     color: #fff;
 }
 
-.Inter Personal Skills .Row{
+.Inter_Personal_Skills .Row{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     padding: 3rem 0;
 }
-.Inter Personal Skills .Row .det{
+.Inter_Personal_Skills .Row .det{
     flex: 1 1 48rem;
     padding: 2rem 1rem;
     padding-left: 8rem;
 }
 
-.Inter Personal Skills .Row .det h3{
+.Inter_Personal_Skills .Row .det h3{
     font-size: 2rem;
     color:#fff;
     padding: 1rem 0;
     font-weight: normal;
 }
 
-.Inter Personal Skills .Row .det h3 span{
+.Inter_Personal_Skills .Row .det h3 span{
     color: #eee;
     padding: 0. 5rem;
 }
